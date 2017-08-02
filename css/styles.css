@@ -1,0 +1,13 @@
+h2.intro {
+  font-style: italic;
+  color: orange;
+}
+
+p.intro {
+  color: white;
+  background-color: black;
+}
+
+img.intro {
+  width: 400px;
+}
